@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @service-hcp-snkeos
-- 🤖 I’m a service account currently used to generate tokens (PATs) for builds and deployments
+- 🤖 I’m a service account currently used to generate tokens (PATs) and sign artifacts for builds and deployments
 - 📫 How to reach me: contact @atri-dastidar-snkeos or @daniel-eichinger-bl
 
 <!---
